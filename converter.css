@@ -1,0 +1,21 @@
+#upper-case,
+#lower-case,
+#proper-case,
+#sentence-case,
+#save-text-file {
+    background-color: rgb(228, 143, 74);
+    border-radius: 5%;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 35px;
+}
+
+#Case-converter-text {
+    width: 65%;
+}
+
+#buttons-panel {
+    margin-top: 1%;
+}
